@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr ""
+msgstr "සෙවුම් කෙටි මාර්ග"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr ""
+msgstr "පෞද්ගලිකත්වය සදහා $800,000ක පරිත්‍යාග"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr ""
+msgstr "%s බිලියනයක සෙවුම්"
 
 msgid "%s blocked by safe search."
-msgstr ""
+msgstr "%s ආරක්ෂාව 
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -38,13 +38,13 @@ msgstr "%s වෙනුවෙන් %s"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr ""
+msgstr "%s පෞද්ගලිකත්වයට පරිත්යාගයන්"
 
 msgid "%s km"
-msgstr ""
+msgstr "කි.මී. %s"
 
 msgid "%s mi"
-msgstr ""
+msgstr "සැතැම්ම %s"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
@@ -67,40 +67,40 @@ msgstr " %s අපිට"
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr ""
+msgstr "%s%s%s බිලියනයක සෙවුම්"
 
 msgctxt "noresults"
 msgid ""
 "%sClick here%s to try again, if you think there should be results for this "
 "search."
-msgstr ""
+msgstr "%ි ඔබ සෙවීම සඳහා ප්‍රතිඵල තිබ‌ේ යැයි සිතන්නේ නම් නැවත උත්සාහ කිරීමට %s ක්ලික් කරන්න,"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr ""
+msgstr "%s DuckDuckGo පැතිරීමට උදවු කරන්න !%s"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
-msgstr ""
+msgstr "%s DuckDuckGo පැතිරීමට උදවු කරන්න %s"
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
-msgstr ""
+msgstr "%s තව දැනගන්න %s."
 
 msgid "%sRight click%s in the search bar"
-msgstr ""
+msgstr "%s දකුණු පස ක්ලික් කරන්න %s සෙවුම් තීරුව තුල"
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
-msgstr ""
+msgstr " %s භාගත කරීම %s විවෘත කරන්න"
 
 msgctxt "install-extension"
 msgid "2. Double-click %sduckduckgo.safariextz%s"
-msgstr ""
+msgstr "දෙවාරයක් ක්ලික් කරන්න %sduckduckgo.safariextz%s මත"
 
 #. https://duckduckgo.com/params in the end under " Source:"
 msgid "A string to identify the source."
-msgstr "මුලාශය හදුනාගනිමට අනුලකුණු වැලක් ලබාදෙන්න."
+msgstr "මුලාශය හදුනාගනිමට අනුලකුණු පේළියක් ලබාදෙන්න."
 
 msgctxt "settings"
 msgid "ATB Dismiss"
@@ -118,7 +118,7 @@ msgstr "තොරතුරු"
 #. This is the side bar "About" link
 msgctxt "static_page"
 msgid "About"
-msgstr ""
+msgstr "තොරතුරු"
 
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
@@ -126,41 +126,40 @@ msgid "About DuckDuckGo"
 msgstr "DuckDuckGo ගැන"
 
 msgid "About Us"
-msgstr ""
-
+msgstr "අප ගැන"
 #. Ad like 'advertisement'
 msgid "Ad"
-msgstr ""
+msgstr "දැන්වීම"
 
 msgctxt "feedback form"
 msgid "Ad is annoying"
-msgstr ""
+msgstr "කරදරකාරී දැන්වීමකි"
 
 msgctxt "feedback form"
 msgid "Ad is inappropriate"
-msgstr ""
+msgstr  "නුසුදුසු දැන්වීමකි"
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
-msgstr ""
+msgstr  "අදාළ නොවන දැන්වීමකි"
 
 msgctxt "feedback form"
 msgid "Ad is malware"
-msgstr ""
+msgstr  "අයහපත් මෘදුකාංග සහිත දැන්වීමකි"
 
 msgctxt "feedback form"
 msgid "Ad is suspicious"
-msgstr ""
+msgstr "සැක සහිත දැන්වීමකි"
 
 #. From Home page, options to "Add DuckDuckGo" to browser or set as home page.
 msgid "Add DuckDuckGo"
-msgstr ""
+msgstr "DuckDuckGo එක් කරන්න"
 
 msgid "Add DuckDuckGo as a search engine"
-msgstr ""
+msgstr "DuckDuckGo සෙවුම් මෘදුකාංගය ලෙස එක් කරන්න"
 
 msgid "Add DuckDuckGo to %s"
-msgstr ""
+msgstr "DuckDuckGo එක් කරන්න %s"
 
 #. https://duckduckgo.com/search_box near the top
 #. e.g.: Add a DuckDuckGo search box to your site! 
@@ -172,7 +171,7 @@ msgid "Add to %s"
 msgstr "%s යන්නට අමුණන්න"
 
 msgid "Add to Home Screen"
-msgstr ""
+msgstr "පළමු පිටුවට එක් කරන්න"
 
 #. In the top menu under Goodies
 msgid "Add-ons"
@@ -180,7 +179,7 @@ msgstr "ඇඩෝන"
 
 msgctxt "maps_places"
 msgid "Address"
-msgstr ""
+msgstr "ලිපිනය"
 
 #. https://duckduckgo.com/params near the top under "Privacy Settings"
 msgid "Address bar:"
@@ -193,7 +192,7 @@ msgstr ""
 #. http://i.imgur.com/ZG0Mz3R.png
 msgctxt "settings"
 msgid "Advertisements"
-msgstr ""
+msgstr "දැන්වීම්"
 
 #. https://duckduckgo.com/params near the top under "Interface Settings"
 msgid "Advertisements:"
